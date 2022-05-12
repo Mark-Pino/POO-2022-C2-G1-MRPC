@@ -20,7 +20,7 @@ public class MesesDelAño {
         listMeses.add("Diciembre");
         
         listMeses.forEach((d) -> {
-            System.out.println(""+d);
+            System.out.println(d);
         });
     }
     
